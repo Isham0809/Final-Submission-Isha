@@ -1,4 +1,4 @@
-#This project provides a web-based admin panel for managing products and users.
+# This project provides a web-based admin panel for managing products and users.
 
 Key Features:
 
